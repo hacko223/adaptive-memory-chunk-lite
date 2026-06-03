@@ -8,7 +8,7 @@ A lightweight Python library for efficient memory chunking
 ## Installation
 
 ```bash
-pip install amcl
+pip install amcl (in development)
 ```
 
 ## Usage
