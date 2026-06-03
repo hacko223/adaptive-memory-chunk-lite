@@ -3,6 +3,7 @@
 A lightweight Python library for efficient memory chunking 
 
 ### read wiki for more info 
+**in development**
 
 ## Installation
 
