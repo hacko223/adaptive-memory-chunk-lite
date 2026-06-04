@@ -2,7 +2,7 @@
 
 A lightweight Python library for efficient memory chunking 
 
-### read wiki for more info 
+### *read [wiki](https://github.com/hacko223/adaptive-memory-chunk-lite/wiki) for more info* 
 **in development**
 
 ## Installation
@@ -22,8 +22,9 @@ See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
-- hacko223
-- ArtemisRGA
+***- hacko223***
+
+***- ArtemisRGA***
 
 ## Contributing
 
